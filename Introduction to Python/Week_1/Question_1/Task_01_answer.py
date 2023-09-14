@@ -1,8 +1,8 @@
 char01 = input("Enter a character: ")
 print(f"You entered character: '{char01}'")
 
-extra_char = input("Enter another character: ")
-print(f"You entered unsigned character: '{extra_char}'")
+char02 = input("Enter another character: ")
+print(f"You entered unsigned character: '{char02}'")
 
 signed_short = input("Enter a signed short value: ")
 print(f"You entered signed short: {signed_short}")
