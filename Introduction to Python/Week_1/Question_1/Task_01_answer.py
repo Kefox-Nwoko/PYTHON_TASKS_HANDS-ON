@@ -1,21 +1,32 @@
 # char01 = input("Enter a character: ")
-# print(f"You entered a character: '{char01}'")
+# print(f"You entered character: '{char01}'")
 
 # extra_char = input("Enter another character: ")
-# print(f"You entered another character: '{extra_char}'")
+# print(f"You entered unsigned character: '{extra_char}'")
 
-# short_value_signed = input("Enter a signed short value: ")
-# print(f"You entered a signed short value: {short_value_signed}")
+# signed_short = input("Enter a signed short value: ")
+# print(f"You entered signed short: {signed_short}")
 
-# short_value_unsigned = input("Enter an unsigned short value: ")
-# print(f"You entered an unsigned short value: {short_value_unsigned}")
+# unsigned_short = input("Enter an unsigned short value: ")
+# print(f"You entered unsigned short: {unsigned_short}")
 
-# integer_value_signed = input("Enter an signed integer value: ")
-# print(f"You entered an signed integer value: {integer_value_signed}")
+# signed_integer = input("Enter a signed integer value: ")
+# print(f"You entered signed int: {signed_integer}")
 
-# integer_value_unsigned = input("Enter an unsigned integer value: ")
-# print(f"You entered an signed integer value: {integer_value_unsigned}")
+# unsigned_integer = input("Enter an unsigned integer value: ")
+# print(f"You entered unsigned int: {unsigned_integer}")
 
+# signed_long = input("Enter a signed long value: ")
+# print(f"You entered signed long: {signed_long}")
+
+# unsigned_long = input("Enter an unsigned long value: ")
+# print(f"You entered unsigned long: {unsigned_long}")
+
+# signed_long2 = input("Enter a signed long long value: ")
+# print(f"You entered signed long long: {signed_long2}")
+
+unsigned_long2 = input("Enter an unsigned long long value: ")
+print(f"You entered unsigned long long: {unsigned_long2}")
 
 
 
