@@ -1,3 +1,4 @@
+
 # Get user input for two numbers separated by space
 choice_numbers = input("Enter any two numbers: ")
 num1, num2 = map(int, choice_numbers.split())

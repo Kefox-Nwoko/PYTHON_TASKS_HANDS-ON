@@ -1,3 +1,4 @@
+
 char01 = input("Enter a character: ")
 print(f"You entered character: '{char01}'")
 
