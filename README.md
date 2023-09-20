@@ -23,7 +23,8 @@ I am always looking for new challenges to add to this repository. If you have an
 
 I hope this repository is helpful to you. Please let me know if you have any questions or feedback.
 
-Additional tips
+**Additional tips**
+
 Here are some additional tips for using this repository:
 
 Start with the easier challenges and work your way up to the more difficult ones.
